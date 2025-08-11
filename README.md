@@ -82,8 +82,8 @@ A Python implementation of **basic spreadsheet functionality** with formula pars
 
 ### Documentation
 
-- **[System Design](docs/SYSTEM_DESIGN.md)** - High-level architecture, usage examples, and implementation requirements
 - **[Functional Specification](docs/FUNC_SPEC.md)** - Business requirements and functional specifications
+- **[System Design](docs/SYSTEM_DESIGN.md)** - High-level architecture, usage examples, and implementation requirements
 - **[Test Plan](tests/TEST_PLAN.md)** - Comprehensive test suite documentation and methodology
 
 ## Usage
