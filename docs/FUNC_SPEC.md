@@ -1,4 +1,4 @@
-# Functional Specification - Spreadsheet
+# Functional Specification - Spreadsheet Dojo
 
 ## Document Information
 
