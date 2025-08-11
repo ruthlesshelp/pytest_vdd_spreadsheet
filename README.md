@@ -65,7 +65,7 @@ pytest tests/ -v
 
 **Run tests with coverage:**
 ```bash
-pytest tests/ -v --cov=src --cov-report=html --cov-report=term-missing
+python -m pytest tests/ -v --cov=src --cov-report=html --cov-report=term-missing
 ```
 
 ## Problem Statement
