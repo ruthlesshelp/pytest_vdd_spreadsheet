@@ -65,7 +65,7 @@ pytest tests/ -v
 
 **Run tests with coverage:**
 ```bash
-python -m pytest tests/ -v --cov=src --cov-report=html --cov-report=term-missing
+pytest tests/ -v --cov=src --cov-report=html --cov-report=term-missing
 ```
 
 ## Problem Statement
@@ -112,7 +112,6 @@ spreadsheet_dojo/
 ├── docs/                   # Documentation
 │   ├── SYSTEM_DESIGN.md    # High-level system design
 │   └── FUNC_SPEC.md        # Functional specification
-├── features/               # Gherkin BDD feature files
 ├── src/                    # Python source code
 └── tests/                  # Python pytest test suite
     └── TEST_PLAN.md        # Test documentation and methodology
